@@ -1,2 +1,2 @@
-# hello-world
-hello-world for test operations
+# C++ examples source code 
+C++ examples source code 
