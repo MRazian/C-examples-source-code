@@ -27,10 +27,10 @@ int main()
           }
     }
     if (flag == true)
-         cout << "Found\n";
+         cout << "Found \n";
 
     else
-         cout << "Not Found\n";
+         cout << "Not Found \n";
     
     
     cout << "\n";
